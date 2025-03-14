@@ -11,4 +11,4 @@ After this project I'll be able to learn the basic *HTML* tags.
 - [X] Decide Recipies and Gather Information
 - [X] Make lasagna.html, garlicknots.html and macncheese.html files.
 - [X] Basic Structure and Images
-- [ ] Add Styling by using CSS similar to  [[allrecipies.com]]
+- [ ] Add Styling by using CSS similar to [allrecipies](https://www.allrecipes.com/)
